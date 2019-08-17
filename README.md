@@ -1,4 +1,6 @@
 # weathergen
+NOTE: WeatherGen does NOT work with Falcon BMS 4.34. All of its functionality has been replaced by [VMT](https://github.com/candera/vmt). Use that instead.
+
 A program to randomly generate convincing weather for Falcon BMS.
 
 # How to Install
